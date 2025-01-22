@@ -16,8 +16,8 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "@vueuse/components": "^10.11.1",
-    "@vueuse/core": "^10.11.1",
+    "@vueuse/components": "^12.5.0",
+    "@vueuse/core": "^12.5.0",
     "axios": "^1.7.9",
     "hoci": "^0.6.0",
     "pinia": "^2.3.0",
